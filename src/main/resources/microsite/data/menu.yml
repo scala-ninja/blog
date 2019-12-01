@@ -1,0 +1,108 @@
+options:
+
+  # Lambda Calculus
+
+  - title: Lambda Calculus
+    url: lambda-calculus
+    menu_type: lambda-calculus
+    menu_section: lambda-calculus
+
+  - title: Symbolic Logic
+    url: lambda-calculus/symbolic-logic
+    menu_type: lambda-calculus
+    menu_section: symbolic-logic
+
+    nested_options:
+
+    - title: Formal Systems
+      url: lambda-calculus/symbolic-logic/formal-systems
+      menu_section: symbolic-logic
+
+    - title: MU Puzzle
+      url: lambda-calculus/symbolic-logic/mu-puzzle
+      menu_section: symbolic-logic
+
+  - title: Untyped Lambda Calculus
+    url: lambda-calculus/untyped-lambda-calculus
+    menu_type: lambda-calculus
+    menu_section: untyped-lambda-calculus
+
+    nested_options:
+
+    - title: Expressions
+      url: lambda-calculus/untyped-lambda-calculus/expressions
+      menu_section: untyped-lambda-calculus
+
+    - title: Currying
+      url: lambda-calculus/untyped-lambda-calculus/currying
+      menu_section: untyped-lambda-calculus
+
+    - title: Beta Reductions
+      url: lambda-calculus/untyped-lambda-calculus/beta-reductions
+      menu_section: untyped-lambda-calculus
+
+    - title: Alpha Replacements
+      url: lambda-calculus/untyped-lambda-calculus/alpha-replacements
+      menu_section: untyped-lambda-calculus
+
+    - title: Eta Expansions
+      url: lambda-calculus/untyped-lambda-calculus/eta-expansions
+      menu_section: untyped-lambda-calculus
+
+    - title: Encoding Booleans
+      url: lambda-calculus/untyped-lambda-calculus/encoding-booleans
+      menu_section: untyped-lambda-calculus
+
+    - title: Peano Numbers
+      url: lambda-calculus/untyped-lambda-calculus/peano-numbers
+      menu_section: untyped-lambda-calculus
+
+    - title: Data Structures
+      url: lambda-calculus/untyped-lambda-calculus/data-structures
+      menu_section: untyped-lambda-calculus
+
+    - title: Combinators
+      url: lambda-calculus/untyped-lambda-calculus/combinators
+      menu_section: untyped-lambda-calculus
+
+    - title: SKI Calculus
+      url: lambda-calculus/untyped-lambda-calculus/ski-calculus
+      menu_section: untyped-lambda-calculus
+
+    - title: BCKIM Calculus
+      url: lambda-calculus/untyped-lambda-calculus/bckim-calculus
+      menu_section: untyped-lambda-calculus
+
+    - title: Fixed Point Combinators
+      url: lambda-calculus/untyped-lambda-calculus/fixed-point-combinators
+      menu_section: untyped-lambda-calculus
+
+  # Category Theory
+
+  - title: Category Theory
+    url: category-theory
+    menu_type: category-theory
+
+  # Scala Fundamentals
+
+  - title: Scala Fundamentals
+    url: scala-fundamentals
+    menu_type: scala-fundamentals
+
+  # Typelevel Programming
+
+  - title: Typelevel Programming
+    url: typelevel-programming
+    menu_type: typelevel-programming
+
+  # Apache Spark
+
+  - title: Apache Spark
+    url: apache-spark
+    menu_type: apache-spark
+
+  # Unix Hacking
+
+  - title: Unix Hacking
+    url: unix-hacking
+    menu_type: unix-hacking
