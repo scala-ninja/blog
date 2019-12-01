@@ -1,6 +1,7 @@
 language: scala
 scala:
   - 2.12.8
+dist: trusty
 jdk:
   - oraclejdk8
 before_install:
