@@ -8,8 +8,7 @@ enablePlugins(MicrositesPlugin)
 
 micrositeName := "Scala Ninja"
 micrositeDescription := "Learn Scala the Functional way"
-micrositeUrl := "https://www.scala.ninja"
-micrositeBaseUrl := "/blog"
+micrositeUrl := "https://blog.scala.ninja"
 micrositeAuthor := "Ajay Viswanathan"
 micrositeGithubOwner := "scala-ninja"
 micrositeGithubRepo := "scala.ninja"
